@@ -1,5 +1,12 @@
 # SEMrush.com API implementation in Python
 
-if __name__ == "__main__":
+# dummy test
+
+def main():
 	print "OK"
+
+
+if __name__ == "__main__":
+	main()
+
 
