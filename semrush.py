@@ -4,13 +4,16 @@
 # Copyright (c) 2011 Ingvar Kovalovskyy
 # http://ingvar.biz/projects/semrush-py
 
+# 1. semrush api functions
+# 2. api externals
+# 3. data helpers
 
 
 def main():
-	print "OK"
+    print "OK"
 
 
 if __name__ == "__main__":
-	main()
+    main()
 
 
