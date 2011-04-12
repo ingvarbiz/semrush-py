@@ -1,6 +1,10 @@
-# SEMrush.com API implementation in Python
+#!/usr/bin/env python
 
-# dummy test
+# SEMrush.com API implementation in Python
+# Copyright (c) 2011 Ingvar Kovalovskyy
+# http://ingvar.biz/projects/semrush-py
+
+
 
 def main():
 	print "OK"
