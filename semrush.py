@@ -8,6 +8,9 @@
 # 2. api externals
 # 3. data helpers
 
+def init(semrush_user, semrush_pass):
+    print "OK"
+
 
 def main():
     print "semrush.py OK"
