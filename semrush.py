@@ -10,7 +10,7 @@
 
 
 def main():
-    print "OK"
+    print "semrush.py OK"
 
 
 if __name__ == "__main__":
